@@ -1,20 +1,20 @@
 # GPGS_Sample
 GPGS_Sample: (v11.01  released on Mar 24, 2022)
 
-/*
- * GPGS Version 11.01 (on Mar 24, 2022)
- * https://github.com/playgameservices/play-games-plugin-for-unity
- * 
- * need to Setting Up Google Play Games Services / inorder to use GPGS
- * https://developers.google.com/games/services/console/enabling
+* GPGS Version 11.01 (on Mar 24, 2022) :
+https://github.com/playgameservices/play-games-plugin-for-unity
+ 
+* need to Setting Up Google Play Games Services / inorder to use GPGS :
+https://developers.google.com/games/services/console/enabling
 
-    use Unity's Social Platform instead of Play Games Services
-    https://docs.unity3d.com/Manual/net-SocialAPI.html
+* use Unity's Social Platform instead of Play Games Services: 
+https://docs.unity3d.com/Manual/net-SocialAPI.html
 
- * GPGSBinder Created by DevCol [ in9 ] (on Nov 9, 2023) ver.1
- * Last edit: (on Nov 29, 2023)
- * 
- */
+* GPGSBinder Created by DevCol [ in9 ] (on Nov 9, 2023) ver.1
+
+
+Last edit: (on Nov 29, 2023)
+
 
 // GPGS only for android NO! iOS
 // set it from UNITY Build Setting
